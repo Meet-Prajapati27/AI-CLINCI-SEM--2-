@@ -1,4 +1,4 @@
-# AI-CLINC-SEM--2-
+# AI-CLINIC-SEM--2-
 **Analyzing Singer Voices with AI Through Music Streaming Platform **
 
 In the rapidly evolving field of artificial intelligence, the application of machine learning in audio analysis has opened new frontiers in music technology. This project, conducted as part of the AI Clinic at Aivancity in collaboration with our partner company Alttrust SAS, explores the use of AI to analyze singers’ vocal characteristics through music streaming platforms in order for them to learn lyrics faster. 
